@@ -7,14 +7,12 @@ const numbers = '+972545894480'
 const client = new Client({
     authStrategy: new LocalAuth
 })
-client.on('qr', (qr) => {
-    qrcode.generate(qr, { small: true })
-})
-client.on('ready', () => {
-    console.log('client is ready');
 
 
-})
+
+
+
+
 const num = '+972545894480'
 const listNum = ['+972544370508']
 
