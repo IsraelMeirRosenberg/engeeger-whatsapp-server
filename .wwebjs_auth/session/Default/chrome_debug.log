@@ -1,193 +1,184 @@
-[0224/224208.318:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Feature xr-spatial-tracking's parameters are ignored.", source:  (0)
-[0224/224208.318:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
-[0224/224208.318:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
-[0224/224208.318:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'gamepad'.", source:  (0)
-[0224/224208.318:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'local-fonts'.", source:  (0)
-[0224/224208.318:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'window-management'.", source:  (0)
-[0224/224208.319:INFO:CONSOLE(0)] "Error with Permissions-Policy-Report-Only header: Feature picture-in-picture's parameters are ignored.", source:  (0)
-[0224/224219.578:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
-[0224/224219.579:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\GPUCache to D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\old_GPUCache_000
-[0224/224219.579:ERROR:disk_cache.cc(192)] Unable to create cache
-[0224/224219.579:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
-[0224/224221.583:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
-[0224/224221.583:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\Cache\Cache_Data to D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\Cache\old_Cache_Data_000
-[0224/224221.583:ERROR:disk_cache.cc(192)] Unable to create cache
-[0224/224221.922:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Feature xr-spatial-tracking's parameters are ignored.", source:  (0)
-[0224/224221.922:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
-[0224/224221.922:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
-[0224/224221.922:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'gamepad'.", source:  (0)
-[0224/224221.922:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'local-fonts'.", source:  (0)
-[0224/224221.922:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'window-management'.", source:  (0)
-[0224/224221.922:INFO:CONSOLE(0)] "Error with Permissions-Policy-Report-Only header: Feature picture-in-picture's parameters are ignored.", source:  (0)
-[0224/224222.584:ERROR:service_worker_storage.cc(1904)] Failed to delete the database: Database IO error
-[0224/224222.647:INFO:CONSOLE(216)] "Another connection wants to delete database 'wawc_db_enc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/app.6eecc95c5605cafebff8.js (216)
-[0224/224222.647:INFO:CONSOLE(215)] "Another connection wants to delete database 'wawc_db_enc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/WAWebWorker.1643aa674555592c0d5f.worker.js (215)
-[0224/224223.153:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Feature xr-spatial-tracking's parameters are ignored.", source:  (0)
-[0224/224223.153:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
-[0224/224223.153:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
-[0224/224223.153:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'gamepad'.", source:  (0)
-[0224/224223.153:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'local-fonts'.", source:  (0)
-[0224/224223.153:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'window-management'.", source:  (0)
-[0224/224223.153:INFO:CONSOLE(0)] "Error with Permissions-Policy-Report-Only header: Feature picture-in-picture's parameters are ignored.", source:  (0)
-[0224/224223.440:INFO:CONSOLE(215)] "Another connection wants to delete database 'wawc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/serviceworker.js (215)
-[0224/224223.440:INFO:CONSOLE(215)] "Another connection wants to delete database 'wawc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/serviceworker.js (215)
-[0224/224224.007:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Feature xr-spatial-tracking's parameters are ignored.", source:  (0)
-[0224/224224.007:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
-[0224/224224.007:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
-[0224/224224.007:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'gamepad'.", source:  (0)
-[0224/224224.007:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'local-fonts'.", source:  (0)
-[0224/224224.007:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'window-management'.", source:  (0)
-[0224/224224.007:INFO:CONSOLE(0)] "Error with Permissions-Policy-Report-Only header: Feature picture-in-picture's parameters are ignored.", source:  (0)
-[0224/224224.009:INFO:CONSOLE(0)] "The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy.", source: https://web.whatsapp.com/?post_logout=1 (0)
-[0224/224229.736:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
-[0224/224229.736:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\GPUCache to D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\old_GPUCache_000
-[0224/224229.736:ERROR:disk_cache.cc(192)] Unable to create cache
-[0224/224229.736:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
-[0224/224230.021:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224231.747:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
-[0224/224231.747:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\Cache\Cache_Data to D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\Cache\old_Cache_Data_000
-[0224/224231.747:ERROR:disk_cache.cc(192)] Unable to create cache
-[0224/224232.036:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224232.059:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Feature xr-spatial-tracking's parameters are ignored.", source:  (0)
-[0224/224232.059:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
-[0224/224232.059:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
-[0224/224232.059:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'gamepad'.", source:  (0)
-[0224/224232.059:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'local-fonts'.", source:  (0)
-[0224/224232.059:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'window-management'.", source:  (0)
-[0224/224232.059:INFO:CONSOLE(0)] "Error with Permissions-Policy-Report-Only header: Feature picture-in-picture's parameters are ignored.", source:  (0)
-[0224/224232.751:ERROR:service_worker_storage.cc(1904)] Failed to delete the database: Database IO error
-[0224/224234.052:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224236.059:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224238.067:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224239.815:ERROR:quota_database.cc(823)] Could not open the quota database, resetting.
-[0224/224240.079:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224242.103:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224242.735:ERROR:quota_database.cc(825)] Failed to reset the quota database.
-[0224/224244.126:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224244.751:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224244.751:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
-[0224/224245.436:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
-[0224/224245.436:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\GPUCache to D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\old_GPUCache_000
-[0224/224245.436:ERROR:disk_cache.cc(192)] Unable to create cache
-[0224/224245.437:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
-[0224/224246.149:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224247.495:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224247.495:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
-[0224/224248.163:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224248.826:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
-[0224/224250.183:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224250.853:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224250.853:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
-[0224/224251.572:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
-[0224/224252.205:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224253.595:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224253.595:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
-[0224/224254.226:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224254.937:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
-[0224/224255.618:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
-[0224/224255.618:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\GPUCache to D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\old_GPUCache_000
-[0224/224255.618:ERROR:disk_cache.cc(192)] Unable to create cache
-[0224/224255.618:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
-[0224/224256.241:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224257.665:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
-[0224/224258.257:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224300.282:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224302.299:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224304.320:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224306.339:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224308.352:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224310.363:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224312.392:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224314.414:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224316.430:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224318.458:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224320.481:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224322.494:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224324.514:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224326.527:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224328.542:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224329.520:INFO:CONSOLE(2)] "Uncaught (in promise) Error: Cannot set headers after they are sent to the client", source:  (2)
-[0224/224330.571:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224332.586:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224334.597:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224336.617:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224338.636:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224340.651:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224342.674:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224344.695:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224346.716:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224348.736:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224349.533:INFO:CONSOLE(2)] "Uncaught (in promise) Error: Cannot set headers after they are sent to the client", source:  (2)
-[0224/224350.760:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224352.781:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224354.799:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224356.821:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224357.650:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
-[0224/224357.650:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\GPUCache to D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\old_GPUCache_000
-[0224/224357.650:ERROR:disk_cache.cc(192)] Unable to create cache
-[0224/224357.650:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
-[0224/224358.838:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224359.665:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
-[0224/224359.665:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\Cache\Cache_Data to D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\Cache\old_Cache_Data_000
-[0224/224359.665:ERROR:disk_cache.cc(192)] Unable to create cache
-[0224/224359.998:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Feature xr-spatial-tracking's parameters are ignored.", source:  (0)
-[0224/224359.998:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
-[0224/224359.998:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
-[0224/224359.998:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'gamepad'.", source:  (0)
-[0224/224359.998:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'local-fonts'.", source:  (0)
-[0224/224359.998:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'window-management'.", source:  (0)
-[0224/224359.998:INFO:CONSOLE(0)] "Error with Permissions-Policy-Report-Only header: Feature picture-in-picture's parameters are ignored.", source:  (0)
-[0224/224400.671:ERROR:service_worker_storage.cc(1904)] Failed to delete the database: Database IO error
-[0224/224400.859:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224402.879:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224404.898:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224406.924:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224406.924:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
-[0224/224407.170:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224407.822:ERROR:quota_database.cc(823)] Could not open the quota database, resetting.
-[0224/224409.186:ERROR:leveldb_factory.cc(88)] Failed to open LevelDB database from D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb,IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224409.529:INFO:CONSOLE(2)] "Uncaught (in promise) Error: Cannot set headers after they are sent to the client", source:  (2)
-[0224/224410.739:ERROR:quota_database.cc(825)] Failed to reset the quota database.
-[0224/224411.001:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
-[0224/224412.748:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224412.748:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
-[0224/224416.827:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
-[0224/224417.629:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
-[0224/224417.630:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\GPUCache to D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\old_GPUCache_000
-[0224/224417.630:ERROR:disk_cache.cc(192)] Unable to create cache
-[0224/224417.630:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
-[0224/224418.852:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224418.852:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
-[0224/224419.640:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
-[0224/224419.640:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\Cache\Cache_Data to D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\Cache\old_Cache_Data_000
-[0224/224419.640:ERROR:disk_cache.cc(192)] Unable to create cache
-[0224/224419.996:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Feature xr-spatial-tracking's parameters are ignored.", source:  (0)
-[0224/224419.996:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
-[0224/224419.996:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
-[0224/224419.996:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'gamepad'.", source:  (0)
-[0224/224419.996:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'local-fonts'.", source:  (0)
-[0224/224419.996:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'window-management'.", source:  (0)
-[0224/224419.997:INFO:CONSOLE(0)] "Error with Permissions-Policy-Report-Only header: Feature picture-in-picture's parameters are ignored.", source:  (0)
-[0224/224420.648:ERROR:service_worker_storage.cc(1904)] Failed to delete the database: Database IO error
-[0224/224422.930:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
-[0224/224423.612:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
-[0224/224423.612:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\GPUCache to D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\old_GPUCache_000
-[0224/224423.612:ERROR:disk_cache.cc(192)] Unable to create cache
-[0224/224423.612:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
-[0224/224427.796:ERROR:quota_database.cc(823)] Could not open the quota database, resetting.
-[0224/224429.537:INFO:CONSOLE(2)] "Uncaught (in promise) Error: Cannot set headers after they are sent to the client", source:  (2)
-[0224/224430.710:ERROR:quota_database.cc(825)] Failed to reset the quota database.
-[0224/224432.730:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224432.730:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
-[0224/224436.820:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
-[0224/224438.836:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
-[0224/224438.836:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
-[0224/224442.934:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
-[0224/224443.604:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
-[0224/224443.604:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\GPUCache to D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\old_GPUCache_000
-[0224/224443.604:ERROR:disk_cache.cc(192)] Unable to create cache
-[0224/224443.604:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
-[0224/224449.537:INFO:CONSOLE(2)] "Uncaught (in promise) Error: Cannot set headers after they are sent to the client", source:  (2)
-[0224/224610.263:INFO:CONSOLE(2)] "Uncaught (in promise) Error: Cannot set headers after they are sent to the client", source:  (2)
-[0224/224630.282:INFO:CONSOLE(2)] "Uncaught (in promise) Error: Cannot set headers after they are sent to the client", source:  (2)
-[0224/224650.280:INFO:CONSOLE(2)] "Uncaught (in promise) Error: Cannot set headers after they are sent to the client", source:  (2)
+[0227/160551.382:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Feature xr-spatial-tracking's parameters are ignored.", source:  (0)
+[0227/160551.382:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[0227/160551.382:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[0227/160551.382:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'gamepad'.", source:  (0)
+[0227/160551.382:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'local-fonts'.", source:  (0)
+[0227/160551.382:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'window-management'.", source:  (0)
+[0227/160551.382:INFO:CONSOLE(0)] "Error with Permissions-Policy-Report-Only header: Feature picture-in-picture's parameters are ignored.", source:  (0)
+[0227/160552.001:INFO:CONSOLE(215)] "Another connection wants to delete database 'wawc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/serviceworker.js (215)
+[0227/160552.001:INFO:CONSOLE(215)] "Another connection wants to delete database 'wawc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/serviceworker.js (215)
+[0227/160613.735:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0227/160613.735:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\GPUCache to D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\old_GPUCache_000
+[0227/160613.735:ERROR:disk_cache.cc(192)] Unable to create cache
+[0227/160613.735:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0227/160615.756:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0227/160615.756:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\Cache\Cache_Data to D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\Cache\old_Cache_Data_000
+[0227/160615.756:ERROR:disk_cache.cc(192)] Unable to create cache
+[0227/160616.098:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Feature xr-spatial-tracking's parameters are ignored.", source:  (0)
+[0227/160616.098:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[0227/160616.099:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[0227/160616.099:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'gamepad'.", source:  (0)
+[0227/160616.099:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'local-fonts'.", source:  (0)
+[0227/160616.099:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'window-management'.", source:  (0)
+[0227/160616.099:INFO:CONSOLE(0)] "Error with Permissions-Policy-Report-Only header: Feature picture-in-picture's parameters are ignored.", source:  (0)
+[0227/160616.769:ERROR:service_worker_storage.cc(1904)] Failed to delete the database: Database IO error
+[0227/160623.964:ERROR:quota_database.cc(823)] Could not open the quota database, resetting.
+[0227/160626.886:ERROR:quota_database.cc(825)] Failed to reset the quota database.
+[0227/160628.901:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0227/160628.901:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0227/160632.987:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0227/160634.994:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0227/160634.994:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0227/160639.089:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0227/160639.654:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0227/160639.654:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\GPUCache to D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\old_GPUCache_000
+[0227/160639.654:ERROR:disk_cache.cc(192)] Unable to create cache
+[0227/160639.654:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0227/160639.790:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0227/160639.790:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\GPUCache to D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\old_GPUCache_000
+[0227/160639.790:ERROR:disk_cache.cc(192)] Unable to create cache
+[0227/160639.790:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0227/160641.807:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0227/160641.807:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\Cache\Cache_Data to D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\Cache\old_Cache_Data_000
+[0227/160641.807:ERROR:disk_cache.cc(192)] Unable to create cache
+[0227/160642.178:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Feature xr-spatial-tracking's parameters are ignored.", source:  (0)
+[0227/160642.178:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[0227/160642.178:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[0227/160642.178:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'gamepad'.", source:  (0)
+[0227/160642.178:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'local-fonts'.", source:  (0)
+[0227/160642.178:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'window-management'.", source:  (0)
+[0227/160642.178:INFO:CONSOLE(0)] "Error with Permissions-Policy-Report-Only header: Feature picture-in-picture's parameters are ignored.", source:  (0)
+[0227/160642.812:ERROR:service_worker_storage.cc(1904)] Failed to delete the database: Database IO error
+[0227/160649.990:ERROR:quota_database.cc(823)] Could not open the quota database, resetting.
+[0227/160652.898:ERROR:quota_database.cc(825)] Failed to reset the quota database.
+[0227/160654.901:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0227/160654.901:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0227/160658.997:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0227/160701.011:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0227/160701.011:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0227/160705.115:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0227/160705.747:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0227/160705.747:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\GPUCache to D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\old_GPUCache_000
+[0227/160705.747:ERROR:disk_cache.cc(192)] Unable to create cache
+[0227/160705.747:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0227/160707.039:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0227/160707.040:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\GPUCache to D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\old_GPUCache_000
+[0227/160707.040:ERROR:disk_cache.cc(192)] Unable to create cache
+[0227/160707.040:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0227/160709.054:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0227/160709.054:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\Cache\Cache_Data to D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\Cache\old_Cache_Data_000
+[0227/160709.054:ERROR:disk_cache.cc(192)] Unable to create cache
+[0227/160709.391:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Feature xr-spatial-tracking's parameters are ignored.", source:  (0)
+[0227/160709.391:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[0227/160709.391:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[0227/160709.391:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'gamepad'.", source:  (0)
+[0227/160709.391:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'local-fonts'.", source:  (0)
+[0227/160709.391:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'window-management'.", source:  (0)
+[0227/160709.391:INFO:CONSOLE(0)] "Error with Permissions-Policy-Report-Only header: Feature picture-in-picture's parameters are ignored.", source:  (0)
+[0227/160710.060:ERROR:service_worker_storage.cc(1904)] Failed to delete the database: Database IO error
+[0227/160717.339:ERROR:quota_database.cc(823)] Could not open the quota database, resetting.
+[0227/160720.277:ERROR:quota_database.cc(825)] Failed to reset the quota database.
+[0227/160722.279:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0227/160722.279:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0227/160726.368:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0227/160727.037:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0227/160727.038:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\GPUCache to D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\old_GPUCache_000
+[0227/160727.038:ERROR:disk_cache.cc(192)] Unable to create cache
+[0227/160727.038:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0227/160728.383:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0227/160728.383:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0227/160729.050:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0227/160729.050:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\Cache\Cache_Data to D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\Cache\old_Cache_Data_000
+[0227/160729.050:ERROR:disk_cache.cc(192)] Unable to create cache
+[0227/160729.414:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Feature xr-spatial-tracking's parameters are ignored.", source:  (0)
+[0227/160729.414:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[0227/160729.414:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[0227/160729.414:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'gamepad'.", source:  (0)
+[0227/160729.414:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'local-fonts'.", source:  (0)
+[0227/160729.414:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'window-management'.", source:  (0)
+[0227/160729.414:INFO:CONSOLE(0)] "Error with Permissions-Policy-Report-Only header: Feature picture-in-picture's parameters are ignored.", source:  (0)
+[0227/160730.054:ERROR:service_worker_storage.cc(1904)] Failed to delete the database: Database IO error
+[0227/160732.512:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0227/160732.981:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0227/160732.981:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\GPUCache to D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\old_GPUCache_000
+[0227/160732.981:ERROR:disk_cache.cc(192)] Unable to create cache
+[0227/160732.981:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0227/160737.256:ERROR:quota_database.cc(823)] Could not open the quota database, resetting.
+[0227/160738.825:INFO:CONSOLE(216)] "Another connection wants to delete database 'wawc_db_enc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/app.6eecc95c5605cafebff8.js (216)
+[0227/160738.825:INFO:CONSOLE(215)] "Another connection wants to delete database 'wawc_db_enc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/WAWebWorker.1643aa674555592c0d5f.worker.js (215)
+[0227/160738.966:INFO:CONSOLE(215)] "Another connection wants to delete database 'model-storage'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/WAWebWorker.1643aa674555592c0d5f.worker.js (215)
+[0227/160739.215:INFO:CONSOLE(215)] "Another connection wants to delete database 'fts-storage'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/WAWebWorker.1643aa674555592c0d5f.worker.js (215)
+[0227/160739.265:INFO:CONSOLE(0)] "Uncaught (in promise) [object Object]", source: https://web.whatsapp.com/WAWebWorker.1643aa674555592c0d5f.worker.js (0)
+[0227/160739.265:INFO:CONSOLE(0)] "Uncaught (in promise) [object Object]", source: https://web.whatsapp.com/WAWebWorker.1643aa674555592c0d5f.worker.js (0)
+[0227/160739.547:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Feature xr-spatial-tracking's parameters are ignored.", source:  (0)
+[0227/160739.547:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[0227/160739.547:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[0227/160739.547:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'gamepad'.", source:  (0)
+[0227/160739.547:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'local-fonts'.", source:  (0)
+[0227/160739.547:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'window-management'.", source:  (0)
+[0227/160739.547:INFO:CONSOLE(0)] "Error with Permissions-Policy-Report-Only header: Feature picture-in-picture's parameters are ignored.", source:  (0)
+[0227/160740.191:ERROR:quota_database.cc(825)] Failed to reset the quota database.
+[0227/160742.218:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0227/160742.218:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0227/160746.304:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0227/160748.321:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0227/160748.321:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0227/160752.402:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0227/160753.021:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0227/160753.021:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\GPUCache to D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\old_GPUCache_000
+[0227/160753.021:ERROR:disk_cache.cc(192)] Unable to create cache
+[0227/160753.021:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0227/160900.195:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0227/160900.196:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\GPUCache to D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\old_GPUCache_000
+[0227/160900.196:ERROR:disk_cache.cc(192)] Unable to create cache
+[0227/160900.196:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0227/160902.216:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0227/160902.216:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\Cache\Cache_Data to D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\Cache\old_Cache_Data_000
+[0227/160902.216:ERROR:disk_cache.cc(192)] Unable to create cache
+[0227/160902.565:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Feature xr-spatial-tracking's parameters are ignored.", source:  (0)
+[0227/160902.565:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[0227/160902.565:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[0227/160902.565:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'gamepad'.", source:  (0)
+[0227/160902.565:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'local-fonts'.", source:  (0)
+[0227/160902.565:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'window-management'.", source:  (0)
+[0227/160902.565:INFO:CONSOLE(0)] "Error with Permissions-Policy-Report-Only header: Feature picture-in-picture's parameters are ignored.", source:  (0)
+[0227/160903.226:ERROR:service_worker_storage.cc(1904)] Failed to delete the database: Database IO error
+[0227/160910.434:ERROR:quota_database.cc(823)] Could not open the quota database, resetting.
+[0227/160913.352:ERROR:quota_database.cc(825)] Failed to reset the quota database.
+[0227/160915.376:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0227/160915.376:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0227/160919.449:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0227/160921.477:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0227/160921.477:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0227/160925.575:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0227/160926.180:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0227/160926.180:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\GPUCache to D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\old_GPUCache_000
+[0227/160926.180:ERROR:disk_cache.cc(192)] Unable to create cache
+[0227/160926.180:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0227/161217.856:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0227/161217.857:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\GPUCache to D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\old_GPUCache_000
+[0227/161217.857:ERROR:disk_cache.cc(192)] Unable to create cache
+[0227/161217.857:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0227/161219.888:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0227/161219.888:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\Cache\Cache_Data to D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\Cache\old_Cache_Data_000
+[0227/161219.888:ERROR:disk_cache.cc(192)] Unable to create cache
+[0227/161220.227:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Feature xr-spatial-tracking's parameters are ignored.", source:  (0)
+[0227/161220.227:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[0227/161220.227:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[0227/161220.227:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'gamepad'.", source:  (0)
+[0227/161220.227:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'local-fonts'.", source:  (0)
+[0227/161220.227:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'window-management'.", source:  (0)
+[0227/161220.227:INFO:CONSOLE(0)] "Error with Permissions-Policy-Report-Only header: Feature picture-in-picture's parameters are ignored.", source:  (0)
+[0227/161220.892:ERROR:service_worker_storage.cc(1904)] Failed to delete the database: Database IO error
+[0227/161228.182:ERROR:quota_database.cc(823)] Could not open the quota database, resetting.
+[0227/161231.076:ERROR:quota_database.cc(825)] Failed to reset the quota database.
+[0227/161233.104:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0227/161233.104:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0227/161237.185:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0227/161239.203:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0227/161239.203:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0227/161243.276:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0227/161243.896:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0227/161243.896:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\GPUCache to D:\ourproject\whatsapp server\.wwebjs_auth\session\Default\old_GPUCache_000
+[0227/161243.896:ERROR:disk_cache.cc(192)] Unable to create cache
+[0227/161243.896:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
