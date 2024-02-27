@@ -1,0 +1,207 @@
+[0227/155350.719:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Feature xr-spatial-tracking's parameters are ignored.", source:  (0)
+[0227/155350.719:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[0227/155350.720:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[0227/155350.720:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'gamepad'.", source:  (0)
+[0227/155350.720:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'local-fonts'.", source:  (0)
+[0227/155350.720:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'window-management'.", source:  (0)
+[0227/155350.737:INFO:CONSOLE(0)] "Error with Permissions-Policy-Report-Only header: Feature picture-in-picture's parameters are ignored.", source:  (0)
+[0227/155538.075:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0227/155538.075:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\yourFolderName\session\Default\GPUCache to D:\ourproject\whatsapp server\yourFolderName\session\Default\old_GPUCache_000
+[0227/155538.075:ERROR:disk_cache.cc(192)] Unable to create cache
+[0227/155538.075:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0227/155538.364:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0227/155538.364:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\yourFolderName\session\Default\GPUCache to D:\ourproject\whatsapp server\yourFolderName\session\Default\old_GPUCache_000
+[0227/155538.365:ERROR:disk_cache.cc(192)] Unable to create cache
+[0227/155538.365:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0227/155540.091:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0227/155540.091:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\yourFolderName\session\Default\Cache\Cache_Data to D:\ourproject\whatsapp server\yourFolderName\session\Default\Cache\old_Cache_Data_000
+[0227/155540.091:ERROR:disk_cache.cc(192)] Unable to create cache
+[0227/155540.384:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0227/155540.384:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\yourFolderName\session\Default\Cache\Cache_Data to D:\ourproject\whatsapp server\yourFolderName\session\Default\Cache\old_Cache_Data_000
+[0227/155540.384:ERROR:disk_cache.cc(192)] Unable to create cache
+[0227/155540.454:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Feature xr-spatial-tracking's parameters are ignored.", source:  (0)
+[0227/155540.454:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[0227/155540.454:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[0227/155540.454:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'gamepad'.", source:  (0)
+[0227/155540.454:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'local-fonts'.", source:  (0)
+[0227/155540.454:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'window-management'.", source:  (0)
+[0227/155540.454:INFO:CONSOLE(0)] "Error with Permissions-Policy-Report-Only header: Feature picture-in-picture's parameters are ignored.", source:  (0)
+[0227/155540.733:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Feature xr-spatial-tracking's parameters are ignored.", source:  (0)
+[0227/155540.733:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[0227/155540.733:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[0227/155540.733:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'gamepad'.", source:  (0)
+[0227/155540.733:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'local-fonts'.", source:  (0)
+[0227/155540.733:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'window-management'.", source:  (0)
+[0227/155540.733:INFO:CONSOLE(0)] "Error with Permissions-Policy-Report-Only header: Feature picture-in-picture's parameters are ignored.", source:  (0)
+[0227/155541.089:ERROR:service_worker_storage.cc(1904)] Failed to delete the database: Database IO error
+[0227/155541.400:ERROR:service_worker_storage.cc(1904)] Failed to delete the database: Database IO error
+[0227/155544.999:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0227/155545.000:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\yourFolderName\session\Default\GPUCache to D:\ourproject\whatsapp server\yourFolderName\session\Default\old_GPUCache_000
+[0227/155545.000:ERROR:disk_cache.cc(192)] Unable to create cache
+[0227/155545.000:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0227/155547.021:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0227/155547.021:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\yourFolderName\session\Default\Cache\Cache_Data to D:\ourproject\whatsapp server\yourFolderName\session\Default\Cache\old_Cache_Data_000
+[0227/155547.021:ERROR:disk_cache.cc(192)] Unable to create cache
+[0227/155547.397:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Feature xr-spatial-tracking's parameters are ignored.", source:  (0)
+[0227/155547.397:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[0227/155547.397:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[0227/155547.397:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'gamepad'.", source:  (0)
+[0227/155547.397:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'local-fonts'.", source:  (0)
+[0227/155547.397:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'window-management'.", source:  (0)
+[0227/155547.397:INFO:CONSOLE(0)] "Error with Permissions-Policy-Report-Only header: Feature picture-in-picture's parameters are ignored.", source:  (0)
+[0227/155548.026:ERROR:service_worker_storage.cc(1904)] Failed to delete the database: Database IO error
+[0227/155548.289:ERROR:quota_database.cc(823)] Could not open the quota database, resetting.
+[0227/155548.584:ERROR:quota_database.cc(823)] Could not open the quota database, resetting.
+[0227/155551.201:ERROR:quota_database.cc(825)] Failed to reset the quota database.
+[0227/155551.496:ERROR:quota_database.cc(825)] Failed to reset the quota database.
+[0227/155553.210:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\ourproject\whatsapp server\yourFolderName\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0227/155553.210:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0227/155553.504:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\ourproject\whatsapp server\yourFolderName\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0227/155553.504:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0227/155555.206:ERROR:quota_database.cc(823)] Could not open the quota database, resetting.
+[0227/155557.283:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0227/155557.594:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0227/155558.126:ERROR:quota_database.cc(825)] Failed to reset the quota database.
+[0227/155558.380:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0227/155558.380:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\yourFolderName\session\Default\GPUCache to D:\ourproject\whatsapp server\yourFolderName\session\Default\old_GPUCache_000
+[0227/155558.380:ERROR:disk_cache.cc(192)] Unable to create cache
+[0227/155558.380:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0227/155559.300:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\ourproject\whatsapp server\yourFolderName\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0227/155559.300:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0227/155559.610:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\ourproject\whatsapp server\yourFolderName\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0227/155559.610:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0227/155600.138:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\ourproject\whatsapp server\yourFolderName\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0227/155600.138:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0227/155600.404:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0227/155600.404:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\yourFolderName\session\Default\Cache\Cache_Data to D:\ourproject\whatsapp server\yourFolderName\session\Default\Cache\old_Cache_Data_000
+[0227/155600.404:ERROR:disk_cache.cc(192)] Unable to create cache
+[0227/155600.752:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Feature xr-spatial-tracking's parameters are ignored.", source:  (0)
+[0227/155600.752:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[0227/155600.752:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[0227/155600.752:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'gamepad'.", source:  (0)
+[0227/155600.752:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'local-fonts'.", source:  (0)
+[0227/155600.752:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'window-management'.", source:  (0)
+[0227/155600.752:INFO:CONSOLE(0)] "Error with Permissions-Policy-Report-Only header: Feature picture-in-picture's parameters are ignored.", source:  (0)
+[0227/155601.412:ERROR:service_worker_storage.cc(1904)] Failed to delete the database: Database IO error
+[0227/155603.389:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0227/155603.699:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0227/155604.006:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0227/155604.007:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\yourFolderName\session\Default\GPUCache to D:\ourproject\whatsapp server\yourFolderName\session\Default\old_GPUCache_000
+[0227/155604.007:ERROR:disk_cache.cc(192)] Unable to create cache
+[0227/155604.007:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0227/155604.227:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0227/155604.314:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0227/155604.314:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\yourFolderName\session\Default\GPUCache to D:\ourproject\whatsapp server\yourFolderName\session\Default\old_GPUCache_000
+[0227/155604.315:ERROR:disk_cache.cc(192)] Unable to create cache
+[0227/155604.315:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0227/155606.248:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\ourproject\whatsapp server\yourFolderName\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0227/155606.248:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0227/155608.538:ERROR:quota_database.cc(823)] Could not open the quota database, resetting.
+[0227/155610.321:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0227/155610.926:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0227/155610.926:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\yourFolderName\session\Default\GPUCache to D:\ourproject\whatsapp server\yourFolderName\session\Default\old_GPUCache_000
+[0227/155610.926:ERROR:disk_cache.cc(192)] Unable to create cache
+[0227/155610.926:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0227/155611.439:ERROR:quota_database.cc(825)] Failed to reset the quota database.
+[0227/155613.457:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\ourproject\whatsapp server\yourFolderName\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0227/155613.457:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0227/155617.539:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0227/155619.557:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\ourproject\whatsapp server\yourFolderName\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0227/155619.557:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0227/155623.648:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0227/155624.407:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0227/155624.407:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\yourFolderName\session\Default\GPUCache to D:\ourproject\whatsapp server\yourFolderName\session\Default\old_GPUCache_000
+[0227/155624.407:ERROR:disk_cache.cc(192)] Unable to create cache
+[0227/155624.407:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0227/155634.174:INFO:CONSOLE(216)] "Another connection wants to delete database 'wawc_db_enc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/app.6eecc95c5605cafebff8.js (216)
+[0227/155634.174:INFO:CONSOLE(215)] "Another connection wants to delete database 'wawc_db_enc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/WAWebWorker.1643aa674555592c0d5f.worker.js (215)
+[0227/155634.483:INFO:CONSOLE(215)] "Another connection wants to delete database 'model-storage'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/WAWebWorker.1643aa674555592c0d5f.worker.js (215)
+[0227/155634.743:INFO:CONSOLE(215)] "Another connection wants to delete database 'fts-storage'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/WAWebWorker.1643aa674555592c0d5f.worker.js (215)
+[0227/155635.101:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Feature xr-spatial-tracking's parameters are ignored.", source:  (0)
+[0227/155635.101:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[0227/155635.101:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[0227/155635.101:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'gamepad'.", source:  (0)
+[0227/155635.101:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'local-fonts'.", source:  (0)
+[0227/155635.101:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'window-management'.", source:  (0)
+[0227/155635.101:INFO:CONSOLE(0)] "Error with Permissions-Policy-Report-Only header: Feature picture-in-picture's parameters are ignored.", source:  (0)
+[0227/155642.547:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0227/155642.547:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\yourFolderName\session\Default\GPUCache to D:\ourproject\whatsapp server\yourFolderName\session\Default\old_GPUCache_000
+[0227/155642.548:ERROR:disk_cache.cc(192)] Unable to create cache
+[0227/155642.548:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0227/155644.561:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0227/155644.561:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\yourFolderName\session\Default\Cache\Cache_Data to D:\ourproject\whatsapp server\yourFolderName\session\Default\Cache\old_Cache_Data_000
+[0227/155644.561:ERROR:disk_cache.cc(192)] Unable to create cache
+[0227/155644.920:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Feature xr-spatial-tracking's parameters are ignored.", source:  (0)
+[0227/155644.920:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[0227/155644.920:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[0227/155644.920:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'gamepad'.", source:  (0)
+[0227/155644.920:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'local-fonts'.", source:  (0)
+[0227/155644.920:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'window-management'.", source:  (0)
+[0227/155644.920:INFO:CONSOLE(0)] "Error with Permissions-Policy-Report-Only header: Feature picture-in-picture's parameters are ignored.", source:  (0)
+[0227/155645.559:ERROR:service_worker_storage.cc(1904)] Failed to delete the database: Database IO error
+[0227/155652.758:ERROR:quota_database.cc(823)] Could not open the quota database, resetting.
+[0227/155655.664:ERROR:quota_database.cc(825)] Failed to reset the quota database.
+[0227/155657.688:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\ourproject\whatsapp server\yourFolderName\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0227/155657.688:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0227/155701.757:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0227/155703.770:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\ourproject\whatsapp server\yourFolderName\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0227/155703.770:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0227/155707.871:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0227/155708.490:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0227/155708.490:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\yourFolderName\session\Default\GPUCache to D:\ourproject\whatsapp server\yourFolderName\session\Default\old_GPUCache_000
+[0227/155708.490:ERROR:disk_cache.cc(192)] Unable to create cache
+[0227/155708.490:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0227/155743.563:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0227/155743.563:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\yourFolderName\session\Default\GPUCache to D:\ourproject\whatsapp server\yourFolderName\session\Default\old_GPUCache_000
+[0227/155743.563:ERROR:disk_cache.cc(192)] Unable to create cache
+[0227/155743.563:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0227/155745.574:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0227/155745.574:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\yourFolderName\session\Default\Cache\Cache_Data to D:\ourproject\whatsapp server\yourFolderName\session\Default\Cache\old_Cache_Data_000
+[0227/155745.574:ERROR:disk_cache.cc(192)] Unable to create cache
+[0227/155745.941:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Feature xr-spatial-tracking's parameters are ignored.", source:  (0)
+[0227/155745.941:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[0227/155745.941:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[0227/155745.941:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'gamepad'.", source:  (0)
+[0227/155745.941:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'local-fonts'.", source:  (0)
+[0227/155745.941:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'window-management'.", source:  (0)
+[0227/155745.941:INFO:CONSOLE(0)] "Error with Permissions-Policy-Report-Only header: Feature picture-in-picture's parameters are ignored.", source:  (0)
+[0227/155746.573:ERROR:service_worker_storage.cc(1904)] Failed to delete the database: Database IO error
+[0227/155753.822:ERROR:quota_database.cc(823)] Could not open the quota database, resetting.
+[0227/155756.758:ERROR:quota_database.cc(825)] Failed to reset the quota database.
+[0227/155758.777:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\ourproject\whatsapp server\yourFolderName\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0227/155758.777:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0227/155802.886:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0227/155804.889:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\ourproject\whatsapp server\yourFolderName\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0227/155804.889:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0227/155808.997:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0227/155809.565:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0227/155809.565:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\yourFolderName\session\Default\GPUCache to D:\ourproject\whatsapp server\yourFolderName\session\Default\old_GPUCache_000
+[0227/155809.565:ERROR:disk_cache.cc(192)] Unable to create cache
+[0227/155809.565:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0227/155910.221:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0227/155910.221:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\yourFolderName\session\Default\GPUCache to D:\ourproject\whatsapp server\yourFolderName\session\Default\old_GPUCache_000
+[0227/155910.221:ERROR:disk_cache.cc(192)] Unable to create cache
+[0227/155910.221:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0227/155912.240:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0227/155912.240:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\yourFolderName\session\Default\Cache\Cache_Data to D:\ourproject\whatsapp server\yourFolderName\session\Default\Cache\old_Cache_Data_000
+[0227/155912.240:ERROR:disk_cache.cc(192)] Unable to create cache
+[0227/155912.588:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Feature xr-spatial-tracking's parameters are ignored.", source:  (0)
+[0227/155912.588:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[0227/155912.588:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[0227/155912.588:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'gamepad'.", source:  (0)
+[0227/155912.588:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'local-fonts'.", source:  (0)
+[0227/155912.588:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'window-management'.", source:  (0)
+[0227/155912.588:INFO:CONSOLE(0)] "Error with Permissions-Policy-Report-Only header: Feature picture-in-picture's parameters are ignored.", source:  (0)
+[0227/155913.245:ERROR:service_worker_storage.cc(1904)] Failed to delete the database: Database IO error
+[0227/155920.460:ERROR:quota_database.cc(823)] Could not open the quota database, resetting.
+[0227/155923.362:ERROR:quota_database.cc(825)] Failed to reset the quota database.
+[0227/155925.383:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\ourproject\whatsapp server\yourFolderName\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0227/155925.383:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0227/155929.447:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0227/155931.461:ERROR:sandbox_origin_database.cc(190)] SandboxOriginDatabase failed at: Init@storage/browser/file_system/sandbox_origin_database.cc:94 with error: IO error: D:\ourproject\whatsapp server\yourFolderName\session\Default\File System\Origins/LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0227/155931.461:WARNING:sandbox_origin_database.cc(106)] Attempting to repair SandboxOriginDatabase.
+[0227/155935.567:WARNING:sandbox_origin_database.cc(140)] Failed to repair SandboxOriginDatabase.
+[0227/155936.270:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0227/155936.270:ERROR:cache_util.cc(146)] Unable to move cache folder D:\ourproject\whatsapp server\yourFolderName\session\Default\GPUCache to D:\ourproject\whatsapp server\yourFolderName\session\Default\old_GPUCache_000
+[0227/155936.270:ERROR:disk_cache.cc(192)] Unable to create cache
+[0227/155936.270:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
